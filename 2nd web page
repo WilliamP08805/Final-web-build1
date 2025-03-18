@@ -1,0 +1,53 @@
+<nav>
+  <a href="index.html">Lockheed Martin</a>
+  <a herf="Northrop.html">Northrop Grumman</a>
+  <a herf="General.html">General Dynamics</a>
+  </nav>
+<html lang="en"
+<head>
+<Title> Largest U.S Arms Manufactures :: Northrop Grumman</title>
+<meta charset="utf-8">
+</head>
+<header>
+  <h1>Largest U.S Arms Manufactures</h1>
+</header>
+<nav>
+<a href="Northrop.html">Northrop Grumman</a>
+  </nav>
+<main>
+  <div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGFNerKv3YceJNrc2uAJlCA3Z6ELRoZRHPA&s" width="200" alt= Northrop>
+    </div>
+  <h2>Northrop Grumman</h2>
+  <div>
+    Established: May 18, 1994
+    </div>
+  <div>
+    Industry: Aerospace, Defense
+    </div>
+  <div>
+    Founders: Leroy R. Grumman, Jack Northrop
+  </div>
+  <h4>Company History</h4>
+  <p>In 1994, Northrop Aircraft bought Grumman Aerospace at a cost of $2.1 billion. The company purchased Vought Aircraft Company in August 1994 for $130 million taking full control of the company after it had purchased an initial 49% interest in September 1992 for $45 million. In 1996, NG acquired all of the defense and electronics systems business of Westinghouse Electric Corporation. In 1997, the defense computer contractor Logicon was added. In 2000, NG acquired Federal Data Corporation, Navia Aviation As, Comptek Research, Inc., and Sterling Software, Inc. In 2001, NG acquired Litton Industries. In 2002, Northrop Grumman acquired TRW Inc. In July 2013, Northrop Grumman won a training-simulation contract potentially worth $490 million to support the U.S. Air Force's next-generation aerial warfare virtual-training network. As of 2018, Northrop Grumman became the primary contractor for the James Webb Space Telescope. In June 2020, NASA granted a $935 million contract to Northrop Grumman for the Lunar Gateway Habitation and Logistics Outpost module, based on its Cygnus cargo spacecraft. The Mars Ascent Propulsion System for Mars sample-return mission Ascent Vehicle contract was awarded to Northrop Grumman on March 5, 2021. In September 2024, Northrop Grumman won the U.S. Missile Defense Agency  competition to develop and build the Glide Phase Interceptor</p>
+  <h4>Products</h4>
+  <ul>
+    <li>B-21 Raider</li>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/B-21-in-flight.jpg/300px-B-21-in-flight.jpg">
+    <li>B-2 Spirit</li>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/B-2_Spirits_on_Deployment_to_Indo-Asia-Pacific.jpg/300px-B-2_Spirits_on_Deployment_to_Indo-Asia-Pacific.jpg">
+    <li>Space Launch Systems (SLS)</li>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/220px-Artemis_I_Launch_%28NHQ202211160017%29.jpg">
+    <li>LGM-35 Sentinel</li>
+    <img src= https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/LGM-35A_Render.png/220px-LGM-35A_Render.png >
+    <li>Manta Ray Underwater Drone</li>
+    <img src= "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/25/USAT/74211104007-courtesy-of-northrup-grumman.jpg?crop=316,315,x123,y0">
+    </ul>
+  <h4></4>
+  <br>
+  </main>
+<footer>
+  <p>DR Web Design &copy; 2025</p>
+  </footer>
+</body>
+</html>
