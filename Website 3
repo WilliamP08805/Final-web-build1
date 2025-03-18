@@ -1,0 +1,55 @@
+<!doctype HTML>
+<nav>
+  <a href= "Index.html">Lockheed Martin</a>
+  <a herf="Northrop.html">Northrop Grumman</a>
+  <a herf="General.html">General Dynamics</a>
+  </nav>
+<html lang="en"
+<head>
+<Title> Largest U.S Arms Manufactures :: General Dynamics</title>
+<meta charset="utf-8">
+</head>
+<header>
+  <h1>Largest U.S Arms Manufactures</h1>
+</header>
+<nav>
+<a href= "General.html">General Dynamics</a>
+  </nav>
+<main>
+  <div>
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVDE1TguTd23FmetS8woScieCZzxBk8xUuA&s" width="200" alt= LockheedMartin>
+    </div>
+  <h2>General Dynamics</h2>
+  <div>
+    Established: 21 February, 1952
+    </div>
+  <div>
+    Industry:Aerospace, Defense, Shipbuilding
+    </div>
+  <div>
+    Founders: Isaac Rice, and John Phillip Holland
+  </div>
+  <h4>Company History</h4>
+  <p>General Dynamics started as Holland Torpedo Boat Company. In 1899, Isaac Rice bought the company and renamed it Electric Boat Company. Electric Boat developed the U.S. Navy's first modern submarines. In 1933, Electric Boat acquired ownership of a shipyard in Groton, Connecticut, to build submarines. Electric Boat bought Canadair for $10 million in 1946. Canadair went on to win many Canadian military contracts for the Royal Canadian Air Force and became a major aerospace company. In 1976, General Dynamics sold Canadair to the Canadian Government for $38 million. Aircraft production became increasingly important at Canadair, the name "Electric Boat" was no longer appropriate-so Electric Boat was reorganized as General Dynamics on 21 February 1952. General Dynamics purchased Convair from the Atlas Group in March 1953. General Dynamics purchased Liquid Carbonic Corporation in September 1957. In May 1965, GD reorganized into 12 operating divisions based on product lines. In 1972, GD bid on the USAF's Lightweight Fighter project. GD and Northrop were awarded prototype contracts. The company submitted the F-16 Fighting Falcon wich won. In 1985, GD bought Cessna. Following a financial hardship, Cessna was re-sold to Textron in January 1992, the San Diego and Pomona missile production units were sold to General Motors-Hughes Aerospace in May 1992, the Fort Worth aircraft production was sold to Lockheed in March 1993 and its Space Systems Division were sold to Martin Marietta in 1994. In 1999, the company acquired Gulfstream Aerospace. In 2003, GD purchased the defense divisions of General Motors. GD bought Force Protection, Inc. in November 2011 for $350 million. In 2018, General Dynamics acquired information technology services giant CSRA for $9.7 billion, and merged it with GDIT. On December 26, 2020, General Dynamics confirmed that their business division General Dynamics Land Systems was awarded a $4.6 billion contract by the U.S. Army for M1A2 SEPv3 Abrams main battle tanks.
+</p>
+  <h4>Products</h4>
+  <ul>
+    <li>M1 Abrams</li>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/M1A2_SEP_v3.jpg/350px-M1A2_SEP_v3.jpg">
+    <li>Virginia-class submarine</li>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg/300px-US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg">
+    <li>Columbia-class submarine</li>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Artist_rendering_of_a_Columbia-class_ballistic_missile_submarine%2C_2019_%28190306-N-N0101-125%29.jpg/300px-Artist_rendering_of_a_Columbia-class_ballistic_missile_submarine%2C_2019_%28190306-N-N0101-125%29.jpg">
+    <li>Arleigh Burke-class destroyer</li>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/US_Navy_080906-N-1082Z-067_The_guided-missile_destroyer_USS_Roosevelt_%28DDG_80%29_transits_the_Atlantic_Ocean.jpg/300px-US_Navy_080906-N-1082Z-067_The_guided-missile_destroyer_USS_Roosevelt_%28DDG_80%29_transits_the_Atlantic_Ocean.jpg">
+    <li>Stryker</li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Stryker_ICV_front_q.jpg/300px-Stryker_ICV_front_q.jpg">
+    </ul>
+  <h4></4>
+  <br>
+  </main>
+<footer>
+  <p>DR Web Design &copy; 2025</p>
+  </footer>
+</body>
+</html>
